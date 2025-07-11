@@ -1,5 +1,5 @@
 # Git Study
-# >Git&Github 실습 원격 저장소
+>Git&Github 실습 원격 저장소
 
 ## 1. Git&Github 개요
 1. Git 설치
